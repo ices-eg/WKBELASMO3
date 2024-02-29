@@ -1,0 +1,12 @@
+<table width="100%">
+<tr><td colspan=5><b>Scenario50_states of the model</td></tr>
+<tr><td colspan=5><hr noshade></td></tr>
+<tr> <td align=left><b></b></td> <td align=right><b>estimate</b></td>	<td align=right><b>cilow</b></td>	<td align=right><b>ciupp</b></td>	<td align=right><b>log.est</b></td> </tr>
+<tr><td colspan=5><hr noshade></td></tr>
+<tr> <td align=left><b>B_2022.94</b></td><td align=right>2039.9870</td>	<td align=right>440.7712</td>	<td align=right>9441.5125</td>	<td align=right>7.6207</td></tr>
+<tr> <td align=left><b>F_2022.94</b></td><td align=right>0.1500</td>	<td align=right>0.0323</td>	<td align=right>0.6968</td>	<td align=right>-1.8972</td></tr>
+<tr> <td align=left><b>B_2022.94/Bmsy</b></td><td align=right>0.9114</td>	<td align=right>0.1362</td>	<td align=right>6.0976</td>	<td align=right>-0.0928</td></tr>
+<tr> <td align=left><b>F_2022.94/Fmsy</b></td><td align=right>1.0955</td>	<td align=right>0.4036</td>	<td align=right>2.9735</td>	<td align=right>0.0912</td></tr>
+<tr><td colspan=5><hr noshade></td></tr>
+</table><br>
+

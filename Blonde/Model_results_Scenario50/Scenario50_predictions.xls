@@ -1,0 +1,14 @@
+<table width="100%">
+<tr><td colspan=5><b>Scenario50_predictions</td></tr>
+<tr><td colspan=5><hr noshade></td></tr>
+<tr> <td align=left><b></b></td> <td align=right><b>prediction</b></td>	<td align=right><b>cilow</b></td>	<td align=right><b>ciupp</b></td>	<td align=right><b>log.est</b></td> </tr>
+<tr><td colspan=5><hr noshade></td></tr>
+<tr> <td align=left><b>B_2024.00</b></td><td align=right>2038.9502</td>	<td align=right>444.1136</td>	<td align=right>9360.9332</td>	<td align=right>7.6202</td></tr>
+<tr> <td align=left><b>F_2024.00</b></td><td align=right>0.1500</td>	<td align=right>0.0321</td>	<td align=right>0.7019</td>	<td align=right>-1.8972</td></tr>
+<tr> <td align=left><b>B_2024.00/Bmsy</b></td><td align=right>0.9109</td>	<td align=right>0.1485</td>	<td align=right>5.5882</td>	<td align=right>-0.0933</td></tr>
+<tr> <td align=left><b>F_2024.00/Fmsy</b></td><td align=right>1.0955</td>	<td align=right>0.3991</td>	<td align=right>3.0068</td>	<td align=right>0.0912</td></tr>
+<tr> <td align=left><b>Catch_2023.00</b></td><td align=right>305.8908</td>	<td align=right>231.7791</td>	<td align=right>403.6997</td>	<td align=right>5.7232</td></tr>
+<tr> <td align=left><b>E(B_inf)</b></td><td align=right>1864.9022</td>	<td align=right>     </td>	<td align=right>     </td>	<td align=right>7.5310</td></tr>
+<tr><td colspan=5><hr noshade></td></tr>
+</table><br>
+

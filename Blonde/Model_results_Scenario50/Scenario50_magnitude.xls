@@ -1,0 +1,10 @@
+<table width="100%">
+<tr><td colspan=6><b>Scenario50_magnitude</td></tr>
+<tr><td colspan=6><hr noshade></td></tr>
+<tr> <td align=left><b></b></td> <td align=right><b>lower</b></td>	<td align=right><b>est</b></td>	<td align=right><b>upper</b></td>	<td align=right><b>CI range</b></td>	<td align=right><b>order magnitude</b></td> </tr>
+<tr><td colspan=6><hr noshade></td></tr>
+<tr> <td align=left><b>B/Bmsy</b></td><td align=right>0.1400</td>	<td align=right>0.9100</td>	<td align=right>6.1000</td>	<td align=right>5.9600</td>	<td align=right>1.0000</td></tr>
+<tr> <td align=left><b>F/Fmsy</b></td><td align=right>0.4000</td>	<td align=right>1.1000</td>	<td align=right>2.9700</td>	<td align=right>2.5700</td>	<td align=right>1.0000</td></tr>
+<tr><td colspan=6><hr noshade></td></tr>
+</table><br>
+
