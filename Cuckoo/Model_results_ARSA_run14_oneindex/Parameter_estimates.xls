@@ -1,0 +1,20 @@
+<table width="100%">
+<tr><td colspan=5><b>Parameter estimates</td></tr>
+<tr><td colspan=5><hr noshade></td></tr>
+<tr> <td align=left><b>Parameter</b></td> <td align=right><b>estimate</b></td>	<td align=right><b>cilow</b></td>	<td align=right><b>ciupp</b></td>	<td align=right><b>log.est</b></td> </tr>
+<tr><td colspan=5><hr noshade></td></tr>
+<tr> <td align=left><b>alpha</b></td><td align=right>5.9275</td>	<td align=right>2.4717</td>	<td align=right>14.2150</td>	<td align=right>1.7796</td></tr>
+<tr> <td align=left><b>beta</b></td><td align=right>0.3289</td>	<td align=right>0.1409</td>	<td align=right>0.7675</td>	<td align=right>-1.1121</td></tr>
+<tr> <td align=left><b>r  </b></td><td align=right>0.4880</td>	<td align=right>0.1888</td>	<td align=right>1.2610</td>	<td align=right>-0.7175</td></tr>
+<tr> <td align=left><b>rc  </b></td><td align=right>0.4880</td>	<td align=right>0.1888</td>	<td align=right>1.2610</td>	<td align=right>-0.7175</td></tr>
+<tr> <td align=left><b>rold  </b></td><td align=right>0.4880</td>	<td align=right>0.1888</td>	<td align=right>1.2610</td>	<td align=right>-0.7175</td></tr>
+<tr> <td align=left><b>m</b></td><td align=right>113.2400</td>	<td align=right>36.6067</td>	<td align=right>350.2987</td>	<td align=right>4.7295</td></tr>
+<tr> <td align=left><b>K</b></td><td align=right>928.2554</td>	<td align=right>139.0411</td>	<td align=right>6197.1443</td>	<td align=right>6.8333</td></tr>
+<tr> <td align=left><b>q</b></td><td align=right>0.0012</td>	<td align=right>0.0002</td>	<td align=right>0.0090</td>	<td align=right>-6.7089</td></tr>
+<tr> <td align=left><b>sdb</b></td><td align=right>0.1214</td>	<td align=right>0.0527</td>	<td align=right>0.2795</td>	<td align=right>-2.1087</td></tr>
+<tr> <td align=left><b>sdf</b></td><td align=right>0.2714</td>	<td align=right>0.1535</td>	<td align=right>0.4797</td>	<td align=right>-1.3042</td></tr>
+<tr> <td align=left><b>sdi</b></td><td align=right>0.7196</td>	<td align=right>0.5723</td>	<td align=right>0.9048</td>	<td align=right>-0.3290</td></tr>
+<tr> <td align=left><b>sdc</b></td><td align=right>0.0892</td>	<td align=right>0.0541</td>	<td align=right>0.1471</td>	<td align=right>-2.4163</td></tr>
+<tr><td colspan=5><hr noshade></td></tr>
+</table><br>
+

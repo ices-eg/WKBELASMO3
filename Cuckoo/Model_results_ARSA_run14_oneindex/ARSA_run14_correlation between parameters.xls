@@ -1,0 +1,15 @@
+<table width="100%">
+<tr><td colspan=8><b>ARSA_run14_correlation between parameters</td></tr>
+<tr><td colspan=8><hr noshade></td></tr>
+<tr> <td align=left><b></b></td> <td align=right><b>logm</b></td>	<td align=right><b>logK</b></td>	<td align=right><b>logq</b></td>	<td align=right><b>logsdb</b></td>	<td align=right><b>logsdf</b></td>	<td align=right><b>logsdi</b></td>	<td align=right><b>logsdc</b></td> </tr>
+<tr><td colspan=8><hr noshade></td></tr>
+<tr> <td align=left><b>logm</b></td><td align=right>1.0000</td>	<td align=right>0.9278</td>	<td align=right>-0.9335</td>	<td align=right>0.0610</td>	<td align=right>0.1511</td>	<td align=right>-0.0845</td>	<td align=right>-0.0466</td></tr>
+<tr> <td align=left><b>logK</b></td><td align=right>0.9278</td>	<td align=right>1.0000</td>	<td align=right>-0.9758</td>	<td align=right>-0.0244</td>	<td align=right>0.1223</td>	<td align=right>-0.0717</td>	<td align=right>-0.0436</td></tr>
+<tr> <td align=left><b>logq</b></td><td align=right>-0.9335</td>	<td align=right>-0.9758</td>	<td align=right>1.0000</td>	<td align=right>0.0183</td>	<td align=right>-0.0989</td>	<td align=right>0.0550</td>	<td align=right>0.0362</td></tr>
+<tr> <td align=left><b>logsdb</b></td><td align=right>0.0610</td>	<td align=right>-0.0244</td>	<td align=right>0.0183</td>	<td align=right>1.0000</td>	<td align=right>-0.0102</td>	<td align=right>-0.0454</td>	<td align=right>-0.0591</td></tr>
+<tr> <td align=left><b>logsdf</b></td><td align=right>0.1511</td>	<td align=right>0.1223</td>	<td align=right>-0.0989</td>	<td align=right>-0.0102</td>	<td align=right>1.0000</td>	<td align=right>-0.0627</td>	<td align=right>-0.2526</td></tr>
+<tr> <td align=left><b>logsdi</b></td><td align=right>-0.0845</td>	<td align=right>-0.0717</td>	<td align=right>0.0550</td>	<td align=right>-0.0454</td>	<td align=right>-0.0627</td>	<td align=right>1.0000</td>	<td align=right>0.0100</td></tr>
+<tr> <td align=left><b>logsdc</b></td><td align=right>-0.0466</td>	<td align=right>-0.0436</td>	<td align=right>0.0362</td>	<td align=right>-0.0591</td>	<td align=right>-0.2526</td>	<td align=right>0.0100</td>	<td align=right>1.0000</td></tr>
+<tr><td colspan=8><hr noshade></td></tr>
+</table><br>
+

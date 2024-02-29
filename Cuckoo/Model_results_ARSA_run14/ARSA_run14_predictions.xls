@@ -1,0 +1,14 @@
+<table width="100%">
+<tr><td colspan=5><b>ARSA_run14_predictions</td></tr>
+<tr><td colspan=5><hr noshade></td></tr>
+<tr> <td align=left><b></b></td> <td align=right><b>prediction</b></td>	<td align=right><b>cilow</b></td>	<td align=right><b>ciupp</b></td>	<td align=right><b>log.est</b></td> </tr>
+<tr><td colspan=5><hr noshade></td></tr>
+<tr> <td align=left><b>B_2024.00</b></td><td align=right>712.6073</td>	<td align=right>119.3893</td>	<td align=right>4253.3883</td>	<td align=right>6.5689</td></tr>
+<tr> <td align=left><b>F_2024.00</b></td><td align=right>0.0469</td>	<td align=right>0.0069</td>	<td align=right>0.3177</td>	<td align=right>-3.0607</td></tr>
+<tr> <td align=left><b>B_2024.00/Bmsy</b></td><td align=right>1.8198</td>	<td align=right>1.3708</td>	<td align=right>2.4158</td>	<td align=right>0.5987</td></tr>
+<tr> <td align=left><b>F_2024.00/Fmsy</b></td><td align=right>0.1893</td>	<td align=right>0.0537</td>	<td align=right>0.6674</td>	<td align=right>-1.6644</td></tr>
+<tr> <td align=left><b>Catch_2023.00</b></td><td align=right>33.3913</td>	<td align=right>17.7445</td>	<td align=right>62.8352</td>	<td align=right>3.5083</td></tr>
+<tr> <td align=left><b>E(B_inf)</b></td><td align=right>698.9253</td>	<td align=right>     </td>	<td align=right>     </td>	<td align=right>6.5495</td></tr>
+<tr><td colspan=5><hr noshade></td></tr>
+</table><br>
+

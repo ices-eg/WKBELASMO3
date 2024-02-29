@@ -1,0 +1,23 @@
+<table width="100%">
+<tr><td colspan=5><b>ARSA_run14_Parameter estimates</td></tr>
+<tr><td colspan=5><hr noshade></td></tr>
+<tr> <td align=left><b>Parameter</b></td> <td align=right><b>estimate</b></td>	<td align=right><b>cilow</b></td>	<td align=right><b>ciupp</b></td>	<td align=right><b>log.est</b></td> </tr>
+<tr><td colspan=5><hr noshade></td></tr>
+<tr> <td align=left><b>alpha1</b></td><td align=right>4.7720</td>	<td align=right>1.9087</td>	<td align=right>11.9310</td>	<td align=right>1.5628</td></tr>
+<tr> <td align=left><b>alpha2</b></td><td align=right>6.7763</td>	<td align=right>2.7544</td>	<td align=right>16.6703</td>	<td align=right>1.9134</td></tr>
+<tr> <td align=left><b>beta</b></td><td align=right>0.3384</td>	<td align=right>0.1454</td>	<td align=right>0.7880</td>	<td align=right>-1.0834</td></tr>
+<tr> <td align=left><b>r  </b></td><td align=right>0.5024</td>	<td align=right>0.1932</td>	<td align=right>1.3065</td>	<td align=right>-0.6884</td></tr>
+<tr> <td align=left><b>rc  </b></td><td align=right>0.5024</td>	<td align=right>0.1932</td>	<td align=right>1.3065</td>	<td align=right>-0.6884</td></tr>
+<tr> <td align=left><b>rold  </b></td><td align=right>0.5024</td>	<td align=right>0.1932</td>	<td align=right>1.3065</td>	<td align=right>-0.6884</td></tr>
+<tr> <td align=left><b>m</b></td><td align=right>100.3311</td>	<td align=right>39.8443</td>	<td align=right>252.6415</td>	<td align=right>4.6085</td></tr>
+<tr> <td align=left><b>K</b></td><td align=right>798.8467</td>	<td align=right>145.2612</td>	<td align=right>4393.1625</td>	<td align=right>6.6832</td></tr>
+<tr> <td align=left><b>q1</b></td><td align=right>0.0014</td>	<td align=right>0.0002</td>	<td align=right>0.0086</td>	<td align=right>-6.5539</td></tr>
+<tr> <td align=left><b>q2</b></td><td align=right>0.0014</td>	<td align=right>0.0002</td>	<td align=right>0.0088</td>	<td align=right>-6.5572</td></tr>
+<tr> <td align=left><b>sdb</b></td><td align=right>0.1227</td>	<td align=right>0.0533</td>	<td align=right>0.2829</td>	<td align=right>-2.0978</td></tr>
+<tr> <td align=left><b>sdf</b></td><td align=right>0.2649</td>	<td align=right>0.1491</td>	<td align=right>0.4709</td>	<td align=right>-1.3283</td></tr>
+<tr> <td align=left><b>sdi1</b></td><td align=right>0.5857</td>	<td align=right>0.4222</td>	<td align=right>0.8125</td>	<td align=right>-0.5350</td></tr>
+<tr> <td align=left><b>sdi2</b></td><td align=right>0.8316</td>	<td align=right>0.6053</td>	<td align=right>1.1426</td>	<td align=right>-0.1843</td></tr>
+<tr> <td align=left><b>sdc</b></td><td align=right>0.0897</td>	<td align=right>0.0547</td>	<td align=right>0.1469</td>	<td align=right>-2.4117</td></tr>
+<tr><td colspan=5><hr noshade></td></tr>
+</table><br>
+

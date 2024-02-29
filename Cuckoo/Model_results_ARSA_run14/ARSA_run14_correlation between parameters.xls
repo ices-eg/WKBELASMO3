@@ -1,0 +1,17 @@
+<table width="100%">
+<tr><td colspan=10><b>ARSA_run14_correlation between parameters</td></tr>
+<tr><td colspan=10><hr noshade></td></tr>
+<tr> <td align=left><b></b></td> <td align=right><b>logm</b></td>	<td align=right><b>logK</b></td>	<td align=right><b>logq</b></td>	<td align=right><b>logq</b></td>	<td align=right><b>logsdb</b></td>	<td align=right><b>logsdf</b></td>	<td align=right><b>logsdi</b></td>	<td align=right><b>logsdi</b></td>	<td align=right><b>logsdc</b></td> </tr>
+<tr><td colspan=10><hr noshade></td></tr>
+<tr> <td align=left><b>logm</b></td><td align=right>1.0000</td>	<td align=right>0.9037</td>	<td align=right>-0.9074</td>	<td align=right>-0.8998</td>	<td align=right>0.0778</td>	<td align=right>0.1143</td>	<td align=right>0.0533</td>	<td align=right>-0.1421</td>	<td align=right>-0.0380</td></tr>
+<tr> <td align=left><b>logK</b></td><td align=right>0.9037</td>	<td align=right>1.0000</td>	<td align=right>-0.9673</td>	<td align=right>-0.9587</td>	<td align=right>-0.0245</td>	<td align=right>0.0882</td>	<td align=right>0.0316</td>	<td align=right>-0.1042</td>	<td align=right>-0.0360</td></tr>
+<tr> <td align=left><b>logq</b></td><td align=right>-0.9074</td>	<td align=right>-0.9673</td>	<td align=right>1.0000</td>	<td align=right>0.9706</td>	<td align=right>0.0143</td>	<td align=right>-0.0595</td>	<td align=right>-0.0438</td>	<td align=right>0.0877</td>	<td align=right>0.0279</td></tr>
+<tr> <td align=left><b>logq</b></td><td align=right>-0.8998</td>	<td align=right>-0.9587</td>	<td align=right>0.9706</td>	<td align=right>1.0000</td>	<td align=right>0.0147</td>	<td align=right>-0.0590</td>	<td align=right>-0.0432</td>	<td align=right>0.0871</td>	<td align=right>0.0270</td></tr>
+<tr> <td align=left><b>logsdb</b></td><td align=right>0.0778</td>	<td align=right>-0.0245</td>	<td align=right>0.0143</td>	<td align=right>0.0147</td>	<td align=right>1.0000</td>	<td align=right>-0.0241</td>	<td align=right>-0.0647</td>	<td align=right>-0.0231</td>	<td align=right>-0.0557</td></tr>
+<tr> <td align=left><b>logsdf</b></td><td align=right>0.1143</td>	<td align=right>0.0882</td>	<td align=right>-0.0595</td>	<td align=right>-0.0590</td>	<td align=right>-0.0241</td>	<td align=right>1.0000</td>	<td align=right>-0.0078</td>	<td align=right>-0.0716</td>	<td align=right>-0.2463</td></tr>
+<tr> <td align=left><b>logsdi</b></td><td align=right>0.0533</td>	<td align=right>0.0316</td>	<td align=right>-0.0438</td>	<td align=right>-0.0432</td>	<td align=right>-0.0647</td>	<td align=right>-0.0078</td>	<td align=right>1.0000</td>	<td align=right>0.0178</td>	<td align=right>-0.0016</td></tr>
+<tr> <td align=left><b>logsdi</b></td><td align=right>-0.1421</td>	<td align=right>-0.1042</td>	<td align=right>0.0877</td>	<td align=right>0.0871</td>	<td align=right>-0.0231</td>	<td align=right>-0.0716</td>	<td align=right>0.0178</td>	<td align=right>1.0000</td>	<td align=right>0.0122</td></tr>
+<tr> <td align=left><b>logsdc</b></td><td align=right>-0.0380</td>	<td align=right>-0.0360</td>	<td align=right>0.0279</td>	<td align=right>0.0270</td>	<td align=right>-0.0557</td>	<td align=right>-0.2463</td>	<td align=right>-0.0016</td>	<td align=right>0.0122</td>	<td align=right>1.0000</td></tr>
+<tr><td colspan=10><hr noshade></td></tr>
+</table><br>
+

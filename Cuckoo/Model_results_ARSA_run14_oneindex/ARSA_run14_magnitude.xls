@@ -1,0 +1,10 @@
+<table width="100%">
+<tr><td colspan=6><b>ARSA_run14_magnitude</td></tr>
+<tr><td colspan=6><hr noshade></td></tr>
+<tr> <td align=left><b></b></td> <td align=right><b>lower</b></td>	<td align=right><b>est</b></td>	<td align=right><b>upper</b></td>	<td align=right><b>CI range</b></td>	<td align=right><b>order magnitude</b></td> </tr>
+<tr><td colspan=6><hr noshade></td></tr>
+<tr> <td align=left><b>B/Bmsy</b></td><td align=right>1.3900</td>	<td align=right>1.8400</td>	<td align=right>2.4400</td>	<td align=right>1.0500</td>	<td align=right>0.0000</td></tr>
+<tr> <td align=left><b>F/Fmsy</b></td><td align=right>0.0400</td>	<td align=right>0.1700</td>	<td align=right>0.6200</td>	<td align=right>0.5800</td>	<td align=right>1.0000</td></tr>
+<tr><td colspan=6><hr noshade></td></tr>
+</table><br>
+

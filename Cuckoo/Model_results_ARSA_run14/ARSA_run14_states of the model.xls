@@ -1,0 +1,12 @@
+<table width="100%">
+<tr><td colspan=5><b>ARSA_run14_states of the model</td></tr>
+<tr><td colspan=5><hr noshade></td></tr>
+<tr> <td align=left><b></b></td> <td align=right><b>estimate</b></td>	<td align=right><b>cilow</b></td>	<td align=right><b>ciupp</b></td>	<td align=right><b>log.est</b></td> </tr>
+<tr><td colspan=5><hr noshade></td></tr>
+<tr> <td align=left><b>B_2022.94</b></td><td align=right>712.7558</td>	<td align=right>120.6209</td>	<td align=right>4211.7150</td>	<td align=right>6.5691</td></tr>
+<tr> <td align=left><b>F_2022.94</b></td><td align=right>0.0469</td>	<td align=right>0.0075</td>	<td align=right>0.2944</td>	<td align=right>-3.0607</td></tr>
+<tr> <td align=left><b>B_2022.94/Bmsy</b></td><td align=right>1.8201</td>	<td align=right>1.3729</td>	<td align=right>2.4130</td>	<td align=right>0.5989</td></tr>
+<tr> <td align=left><b>F_2022.94/Fmsy</b></td><td align=right>0.1893</td>	<td align=right>0.0605</td>	<td align=right>0.5924</td>	<td align=right>-1.6644</td></tr>
+<tr><td colspan=5><hr noshade></td></tr>
+</table><br>
+
